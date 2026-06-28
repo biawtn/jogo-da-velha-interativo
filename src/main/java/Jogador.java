@@ -14,5 +14,5 @@ public class Jogador {
 
     public int getOrdem() {
         return numero;
-    }
+     }
 }
